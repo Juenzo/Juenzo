@@ -10,5 +10,3 @@
 - 🌱 I’m currently learning at ISEN LILLE
 
 - 📫 How to reach me julien.de-almeida@student.junia.com
-
-- 💬 Ask me about C, C++, JavaScript, WEB, Java, TypeScript
